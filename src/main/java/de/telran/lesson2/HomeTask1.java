@@ -11,6 +11,15 @@ public class HomeTask1 {
         double myDouble = 4.355453532;
         long myLong = 12121;
 
+        Character myCharObj = 'G';
+        Integer myIntObj = 89;
+        Byte myByteObj = 4;
+        Short myShortObj = 56;
+        Float myFloatObj = 4.7333436f;
+        Double myDoubleObj = 4.355453532;
+        Long myLongObj = 12121L;
+
+
         System.out.println("char: " +myChar);
         System.out.println("int: " +myInt);
         System.out.println("byte: " +myByte);
@@ -19,13 +28,13 @@ public class HomeTask1 {
         System.out.println("double: " +myDouble);
         System.out.println("long: " +myLong);
         System.out.println();
-        System.out.println("Character: " +myChar);
-        System.out.println("Integer: " +myInt);
-        System.out.println("Byte: " +myByte);
-        System.out.println("Short: " +myShort);
-        System.out.println("Float: " +myFloat);
-        System.out.println("Double: " +myDouble);
-        System.out.println("Long: " +myLong);
+        System.out.println("Character: " +myCharObj);
+        System.out.println("Integer: " +myIntObj);
+        System.out.println("Byte: " +myByteObj);
+        System.out.println("Short: " +myShortObj);
+        System.out.println("Float: " +myFloatObj);
+        System.out.println("Double: " +myDoubleObj);
+        System.out.println("Long: " +myLongObj);
 
     }
 }

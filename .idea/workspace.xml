@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adaf9353-d7ec-4e02-96c7-dfd876dd7ccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/HomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/HomeTask2.java" afterDir="false" />
+    <list default="true" id="adaf9353-d7ec-4e02-96c7-dfd876dd7ccc" name="Changes" comment="HomeTask Lesson 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/HomeTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson2/HomeTask1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2VvnoMVZ0mQLNJpQ6bzMLznRzKK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,16 +34,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HomeTask2">
+}</component>
+  <component name="RunManager" selected="Application.HomeTask1">
     <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.lesson2.HomeTask1" />
       <module name="Java-Basic-HomeTasks" />
@@ -79,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HomeTask2" />
         <item itemvalue="Application.HomeTask1" />
+        <item itemvalue="Application.HomeTask2" />
       </list>
     </recent_temporary>
   </component>
@@ -93,9 +86,20 @@
       <option name="presentableId" value="Default" />
       <updated>1695725597180</updated>
     </task>
+    <task id="LOCAL-00001" summary="HomeTask Lesson 2">
+      <option name="closed" value="true" />
+      <created>1695727687190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695727687190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="HomeTask Lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeTask Lesson 2" />
   </component>
 </project>
