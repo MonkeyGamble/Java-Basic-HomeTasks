@@ -21,19 +21,19 @@ public class HomeTask2 {
         mathMultiplication(arg1, arg2);
         mathDivision(arg1, arg2);
     }
-    static void mathAddition(int arg1, int arg2) {
+    private static void mathAddition(int arg1, int arg2) {
             int mySum = arg1 + arg2;
             System.out.println("Сложение: " +arg1 +" + "+arg2 +" = " +mySum);
     }
-    static void mathSubtraction(int arg1, int arg2) {
+    private static void mathSubtraction(int arg1, int arg2) {
             int mySubtr = arg1 - arg2;
             System.out.println("Вычитание: " +arg1 +" - "+arg2 +" = " +mySubtr);
     }
-    static void mathMultiplication(int arg1, int arg2) {
+    private static void mathMultiplication(int arg1, int arg2) {
             int myMulti = arg1 * arg2;
             System.out.println("Умножение: " +arg1 +" * "+arg2 +" = " +myMulti);
     }
-    static void mathDivision(int arg1, int arg2) {
+    private static void mathDivision(int arg1, int arg2) {
             double arg1d = arg1;
             double arg2d = arg2;
             double myDiv = arg1d / arg2d;
