@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adaf9353-d7ec-4e02-96c7-dfd876dd7ccc" name="Changes" comment="HomeTask Lesson 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson0910/HomeTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson0910/HomeTask2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,26 +46,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.de.telran.lesson0910.HomeTask1">
+  <component name="RunManager" selected="Application.de.telran.lesson0910.HomeTask2">
     <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.lesson0510.HomeTask1" />
       <module name="Java-Basic-HomeTasks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.telran.lesson0510.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.lesson0210.HomeTask2" />
-      <module name="Java-Basic-HomeTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.lesson0210.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="de.telran.lesson0910.HomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson0910.HomeTask2" />
+      <module name="Java-Basic-HomeTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson0910.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.de.telran.lesson0910.HomeTask2" />
         <item itemvalue="Application.de.telran.lesson0910.HomeTask1" />
         <item itemvalue="Application.HomeTask3" />
         <item itemvalue="Application.de.telran.lesson0510.HomeTask2" />
         <item itemvalue="Application.HomeTask1" />
-        <item itemvalue="Application.HomeTask2" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697046087593</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="HomeTask Lesson 2">
+      <option name="closed" value="true" />
+      <created>1697048012813</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697048012813</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
