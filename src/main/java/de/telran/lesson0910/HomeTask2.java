@@ -7,20 +7,21 @@ public class HomeTask2 {
 
         Random random = new Random();
         int sec = random.nextInt(28800);
+
         System.out.println("До конца рабочего дня осталось " +sec+ " секунд");
 
         if (sec > 3600 && sec < 18000) {
             int remain = sec / 3600;
             System.out.println("До конца рабочего дня осталось " +remain+ " часа");
         }
-        else if (sec >= 18000 && sec <= 28800) {
+        else if (sec >= 18000 /*&& sec <= 28800*/) {
             int remain = sec / 3600;
             System.out.println("До конца рабочего дня осталось " +remain+ " часов");
         }
         else if (sec == 3600) {
             System.out.println("До конца рабочего дня остался 1 час");
         }
-        else if (sec < 3600 && sec > 0) {
+        else if (/*sec < 3600 && */sec > 0) {
             System.out.println("До конца рабочего дня осталось меньше часа");
         }
         else System.out.println("Рабочий день окончен");
