@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adaf9353-d7ec-4e02-96c7-dfd876dd7ccc" name="Changes" comment="HomeTask Lesson 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson1610/HomeTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/AutoParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/Marathon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/PlanetsSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/StringsWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/StudentsIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/TemperatureConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/summary/TriangleTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/telran/lesson1610/HomeTask2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HomeTask1">
+  <component name="RunManager" selected="Application.HomeTask2">
     <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.summary.DoWhile" />
       <module name="Java-Basic-HomeTasks" />
@@ -70,6 +62,19 @@
     </configuration>
     <configuration name="HomeTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.telran.lesson1610.HomeTask1" />
+      <module name="Java-Basic-HomeTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.telran.lesson1610.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.telran.lesson1610.HomeTask2" />
       <module name="Java-Basic-HomeTasks" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleTernary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.telran.summary.TriangleTernary" />
-      <module name="Java-Basic-HomeTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.telran.summary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeTask2" />
         <item itemvalue="Application.HomeTask1" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.PlanetsSwitch" />
         <item itemvalue="Application.StudentsIf" />
-        <item itemvalue="Application.TriangleTernary" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697388164003</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="HomeTask Lesson 2">
+      <option name="closed" value="true" />
+      <created>1698062976991</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1698062976991</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,5 +317,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="HomeTask Lesson 2" />
     <option name="LAST_COMMIT_MESSAGE" value="HomeTask Lesson 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/telran/lesson1610/HomeTask1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
