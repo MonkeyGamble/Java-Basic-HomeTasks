@@ -1,8 +1,6 @@
 package de.telran.lesson2310;
 
 import java.util.Arrays;
-import java.util.Random;
-import java.util.Scanner;
 
 public class HomeTask1 {
     public static void main(String[] args) {
